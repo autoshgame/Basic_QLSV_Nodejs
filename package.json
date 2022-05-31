@@ -1,0 +1,16 @@
+{
+  "name": "quanlysinhvien",
+  "version": "1.0.0",
+  "description": "\"Chuong trinh quan ly sinh vien\"",
+  "main": "sever.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "mysql2": "^2.3.3",
+    "nodejs": "^0.0.0"
+  }
+}
